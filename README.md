@@ -1,5 +1,7 @@
 ![Header](./github-header-banner.png)
 
+**Skills:** JAVASCRIPT / HTML / CSS / GIT / GITHUB / FIGMA / ESLINT / REACT / FLEXBOX / VIRTUALDOM / JSX / XHR / AJAX / REACT ROUTER / МОБИЛЬНАЯ ВЕРСТКА
+
 - 🌱 В настоящее время изучаю фронтенд-разработку на курсе "Фронтенд-разработчик: расширенный курс" (03.11.2025 - 12.03.2027) в Нетологии и создаю портфолио-проекты.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Potykalov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/potykalov/?skipRedirect=true/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/dmitriy_potykalov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@Dmitriy_code)  
