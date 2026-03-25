@@ -28,14 +28,6 @@ Frontend Developer
 <a href="https://vk.com/dmitriy_potykalov" title="VK"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
 <a href="mailto: dmitriy.potykalov@gmail.com"><img width="48" height="48" src="https://img.icons8.com/sf-black-filled/64/new-post.png" alt="new-post"/></a>
 
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Potykalov/tic-tac-toe-js" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=potykalov&repo=asda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-**Skills:** JAVASCRIPT / HTML / CSS / GIT / GITHUB / FIGMA / ESLINT / REACT / FLEXBOX / VIRTUALDOM / JSX / XHR / AJAX / REACT ROUTER / МОБИЛЬНАЯ ВЕРСТКА
-
 <!--
 **Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
