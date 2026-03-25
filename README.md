@@ -1,5 +1,7 @@
 ![Header](./github-header-banner.png)
 
+**Город:** Санкт-Петербург
+
 **Skills:** JAVASCRIPT / HTML / CSS / GIT / GITHUB / FIGMA / ESLINT / REACT / FLEXBOX / VIRTUALDOM / JSX / XHR / AJAX / REACT ROUTER / МОБИЛЬНАЯ ВЕРСТКА
 
 - 🌱 В настоящее время изучаю фронтенд-разработку на курсе "Фронтенд-разработчик: расширенный курс" (03.11.2025 - 12.03.2027) в Нетологии и создаю портфолио-проекты.
