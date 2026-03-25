@@ -19,7 +19,7 @@ Frontend Developer
 
 ### Softwares
 
-<img width="48" height="48" title="VS Code" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>     <img width="48" height="48" title="Figma" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/><img width="48" height="48" title="Photoshop" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+<a href="https://visualstudio.microsoft.com/"><img width="48" height="48" title="VS Code" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a><a href="https://www.figma.com/"><img width="48" height="48" title="Figma" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></a><a href="https://www.adobe.com/products/photoshop.html"><img width="48" height="48" title="Photoshop" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/></a>
 
 ### Socials
 
