@@ -20,6 +20,8 @@ Frontend Developer
 
 <a href="https://visualstudio.microsoft.com/"><img width="48" height="48" title="VS Code" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a><a href="https://www.figma.com/"><img width="48" height="48" title="Figma" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></a><a href="https://www.adobe.com/products/photoshop.html"><img width="48" height="48" title="Photoshop" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/></a>
 
+[HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf)
+
 ### Socials
 
 <a href="https://github.com/Potykalov" title="Github"><img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></a>
