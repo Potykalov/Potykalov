@@ -23,11 +23,11 @@ Frontend Developer
 ## Сертификаты Нетологии
 
 - [HTML-верстка: с нуля до первого макета (03.11.2025 - 05.12.2025)](./images/html-css-layout-certificate.pdf)
-- [Адаптивная и мобильная верстка (12.12.2025 - 02.02.2026)]()
-- [Основы программирования (09.02.2026 - 16.03.2026)]()
-- [Git — система контроля версий (23.03.2026 - 06.04.2026)]()
+- [Адаптивная и мобильная верстка (12.12.2025 - 02.02.2026)](./images/responsive-web-design.pdf)
+- [Основы программирования (09.02.2026 - 16.03.2026)](./images/programming-basics.pdf)
+- [Git — система контроля версий (23.03.2026 - 06.04.2026)](./images/git-version-control.pdf)
 
-### Socials
+## Socials
 
 <a href="https://github.com/Potykalov" title="Github"><img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></a>
 <a href="https://www.linkedin.com/in/potykalov/" title="LinkedIn"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
