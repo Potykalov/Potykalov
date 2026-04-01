@@ -25,8 +25,8 @@ Frontend Developer
 
 Домашние работы по курсу "Фронтенд-разработчик: расширенный курс" в онлайн-школе Нетология:
 
-- [Итоговая работа по модулю "HTML-верстка: с нуля до первого макета"](https://github.com/Potykalov/html-2-diploma)
-- [Итоговая работа по модулю "Адаптивная и мобильная вёрстка"](https://github.com/Potykalov/mq-diploma)
+- [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
+- [Адаптивная и мобильная вёрстка](https://github.com/Potykalov/mq-diploma)
 - [JS: Крестики-нолики](https://github.com/Potykalov/tic-tac-toe-js)
 
 ## Сертификаты Нетологии
