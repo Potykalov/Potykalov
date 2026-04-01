@@ -21,6 +21,11 @@ Frontend Developer
 
 <a href="https://visualstudio.microsoft.com/"><img width="48" height="48" title="VS Code" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a><a href="https://www.figma.com/"><img width="48" height="48" title="Figma" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></a><a href="https://www.adobe.com/products/photoshop.html"><img width="48" height="48" title="Photoshop" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/></a>
 
+## Проекты
+
+**Домашние работы по курсу Фронтенд-разработчик: расширенный курс в Нетологии:**
+- 
+
 ## Сертификаты Нетологии
 
 - [HTML-верстка: с нуля до первого макета (03.11.2025 - 05.12.2025)](./images/html-css-layout-certificate.pdf)
