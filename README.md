@@ -27,9 +27,9 @@ Frontend Developer
 - [Основы программирования (09.02.2026 - 16.03.2026)](./images/programming-basics.pdf)
 - [Git — система контроля версий (23.03.2026 - 06.04.2026)](./images/git-version-control.pdf)
 
-## Socials
+## Контакты
 
-<a href="https://github.com/Potykalov" title="Github"><img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></a>
+<a href="https://t.me/dmitriy_potykalov" title="Telegram"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram"/></a>
 <a href="https://www.linkedin.com/in/potykalov/" title="LinkedIn"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://vk.com/dmitriy_potykalov" title="VK"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
 <a href="mailto: dmitriy.potykalov@gmail.com"><img width="48" height="48" src="https://img.icons8.com/sf-black-filled/64/new-post.png" alt="new-post"/></a>
