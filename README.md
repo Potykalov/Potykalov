@@ -27,7 +27,8 @@ Frontend Developer
 
 - [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
 - [Адаптивная и мобильная вёрстка](https://github.com/Potykalov/mq-diploma)
-- [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js)
+- [Воркшоп: разработка логики игры "Виселица"](https://github.com/Potykalov/hangmanGame)
+- [Разработка логики игры "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js)
 
 ## Сертификаты Нетологии
 
