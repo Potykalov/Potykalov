@@ -2,7 +2,7 @@
 
 # Привет! 👋 Я Дмитрий Потыкалов
 
-## Frontend Developer | HTML, CSS, JavaScript, React
+## Frontend Developer | HTML, CSS, JavaScript
 
 Изучаю фронтенд-разработку и активно развиваюсь в веб-разработке.  
 Стремлюсь получить позицию **Frontend Developer** и применять знания на практике, создавая удобные и современные интерфейсы.
@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 Интсрументы
+## 💻 Инструменты
 
 <a href="https://visualstudio.microsoft.com/"><img width="48" height="48" title="VS Code" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a><a href="https://www.figma.com/"><img width="48" height="48" title="Figma" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></a><a href="https://www.adobe.com/products/photoshop.html"><img width="48" height="48" title="Photoshop" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/></a>
 
@@ -41,32 +41,36 @@
 
 ## 🚀 Проекты
 
-### [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
-Адаптивная верстка сайта по макету с использованием Flexbox и Grid.
-
----
-
-### [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma)
-Реализация responsive-дизайна с использованием media queries.
+### [Крестики-нолики](https://github.com/Potykalov/tic-tac-toe-js)
+Реализация игровой логики и взаимодействия с пользователем на JavaScript.
+**Стек:** JavaScript, HTML, CSS 
 
 ---
 
 ### [Игра "Виселица"](https://github.com/Potykalov/hangmanGame)
 Логика игры на JavaScript: работа с DOM, события, обработка пользовательского ввода.
+**Стек:** JavaScript, HTML, CSS 
 
 ---
 
-### [Крестики-нолики](https://github.com/Potykalov/tic-tac-toe-js)
-Реализация игровой логики и взаимодействия с пользователем на JavaScript.
+### [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma)
+Реализация responsive-дизайна с использованием media queries.
+**Стек:** HTML, CSS
+
+---
+
+### [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
+Адаптивная верстка сайта по макету с использованием Flexbox и Grid.
+**Стек:** HTML, CSS
 
 ---
 
 ## 🏆 Сертификаты Нетологии
 
-- [HTML-верстка: с нуля до первого макета (03.11.2025 - 05.12.2025)](./images/html-css-layout-certificate.pdf)
-- [Адаптивная и мобильная верстка (12.12.2025 - 02.02.2026)](./images/responsive-web-design.pdf)
-- [Основы программирования (09.02.2026 - 16.03.2026)](./images/programming-basics.pdf)
-- [Git — система контроля версий (23.03.2026 - 06.04.2026)](./images/git-version-control.pdf)
+- [HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) 📅 03.11.2025 - 05.12.2025
+- [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) 📅 12.12.2025 - 02.02.2026
+- [Основы программирования](./images/programming-basics.pdf) 📅 09.02.2026 - 16.03.2026
+- [Git — система контроля версий](./images/git-version-control.pdf) 📅 23.03.2026 - 06.04.2026
 
 ---
 
@@ -82,6 +86,7 @@
 ## 📫 Контакты
 
 📧 Email: dmitriy.potykalov@gmail.com 
+💼 Open to work  
 
 <a href="https://t.me/dmitriy_potykalov" title="Telegram" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram"/></a>
 <a href="https://www.linkedin.com/in/potykalov/" title="LinkedIn" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
