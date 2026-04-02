@@ -42,25 +42,25 @@
 ## 🚀 Проекты
 
 ### [Крестики-нолики](https://github.com/Potykalov/tic-tac-toe-js)
-Реализация игровой логики и взаимодействия с пользователем на JavaScript.
+Реализация игровой логики и взаимодействия с пользователем на JavaScript.<br>
 **Стек:** JavaScript, HTML, CSS 
 
 ---
 
 ### [Игра "Виселица"](https://github.com/Potykalov/hangmanGame)
-Логика игры на JavaScript: работа с DOM, события, обработка пользовательского ввода.
+Логика игры на JavaScript: работа с DOM, события, обработка пользовательского ввода.<br>
 **Стек:** JavaScript, HTML, CSS 
 
 ---
 
 ### [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma)
-Реализация responsive-дизайна с использованием media queries.
+Реализация responsive-дизайна с использованием media queries.<br>
 **Стек:** HTML, CSS
 
 ---
 
 ### [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
-Адаптивная верстка сайта по макету с использованием Flexbox и Grid.
+Адаптивная верстка сайта по макету с использованием Flexbox и Grid.<br>
 **Стек:** HTML, CSS
 
 ---
@@ -85,7 +85,7 @@
 
 ## 📫 Контакты
 
-📧 Email: dmitriy.potykalov@gmail.com 
+📧 Email: dmitriy.potykalov@gmail.com <br>
 💼 Open to work  
 
 <a href="https://t.me/dmitriy_potykalov" title="Telegram" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram"/></a>
