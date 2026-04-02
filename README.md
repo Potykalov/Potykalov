@@ -41,7 +41,7 @@ Frontend Developer
 <a href="https://t.me/dmitriy_potykalov" title="Telegram" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram"/></a>
 <a href="https://www.linkedin.com/in/potykalov/" title="LinkedIn" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://vk.com/dmitriy_potykalov" title="VK" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
-<a href="mailto: dmitriy.potykalov@gmail.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/sf-black-filled/64/new-post.png" alt="new-post"/></a>
+<a href="mailto: dmitriy.potykalov@gmail.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/new-post.png" alt="new-post"/></a>
 
 <!--
 **Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
