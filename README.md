@@ -19,11 +19,17 @@
 
 ---
 
-## Стек
+## 🛠 Стек технологий
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a>
+**Основное:**
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- JavaScript (ES6+)  
+- Git  
+
+**Дополнительно:**
+- БЭМ-методология  
+- Адаптивная и мобильная верстка  
 
 ---
 
@@ -35,12 +41,23 @@
 
 ## 🚀 Проекты
 
-Домашние работы по курсу "Фронтенд-разработчик: расширенный курс" в онлайн-школе Нетология:
+### [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
+Адаптивная верстка сайта по макету с использованием Flexbox и Grid.
 
-- [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
-- [Адаптивная и мобильная вёрстка](https://github.com/Potykalov/mq-diploma)
-- [Воркшоп: разработка логики игры "Виселица"](https://github.com/Potykalov/hangmanGame)
-- [Разработка логики игры "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js)
+---
+
+### [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma)
+Реализация responsive-дизайна с использованием media queries.
+
+---
+
+### [Игра "Виселица"](https://github.com/Potykalov/hangmanGame)
+Логика игры на JavaScript: работа с DOM, события, обработка пользовательского ввода.
+
+---
+
+### [Крестики-нолики](https://github.com/Potykalov/tic-tac-toe-js)
+Реализация игровой логики и взаимодействия с пользователем на JavaScript.
 
 ---
 
