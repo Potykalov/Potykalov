@@ -41,7 +41,7 @@
 
 ## 🚀 Проекты
 
-### [Крестики-нолики](https://github.com/Potykalov/tic-tac-toe-js)
+### [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js)
 Реализация игровой логики и взаимодействия с пользователем на JavaScript.<br>
 **Стек:** JavaScript, HTML, CSS 
 
