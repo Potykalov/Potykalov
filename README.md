@@ -53,10 +53,10 @@
 
 ## 🚀 Проекты
 
-- [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js) [(Демо)](https://potykalov.github.io/tic-tac-toe-js/) - 
-- [Игра "Виселица"](https://github.com/Potykalov/hangmanGame) [(Демо)](https://potykalov.github.io/hangmanGame/) - 
-- [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma) [(Демо)](https://potykalov.github.io/mq-diploma/) - 
-- [HTML-верстка](https://github.com/Potykalov/html-2-diploma) [(Демо)](https://potykalov.github.io/html-2-diploma/) - 
+- [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js) [(Демо)](https://potykalov.github.io/tic-tac-toe-js/) - Реализована логика классической игры "Крестики-нолики" на JavaScript.
+- [Игра "Виселица"](https://github.com/Potykalov/hangmanGame) [(Демо)](https://potykalov.github.io/hangmanGame/) - Реализована логика классической игры "Виселица" на JavaScript.
+- [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma) [(Демо)](https://potykalov.github.io/mq-diploma/) - Сверстан макет сайта для десктопных экранов, планшетов и смартфонов.
+- [HTML-верстка](https://github.com/Potykalov/html-2-diploma) [(Демо)](https://potykalov.github.io/html-2-diploma/) - Сверстан макет сайта для десктопных экранов.
 
 ## 🧠 Обучение
 
