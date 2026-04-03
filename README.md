@@ -155,6 +155,8 @@
 <a href="https://www.linkedin.com/in/potykalov/" title="LinkedIn" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://vk.com/dmitriy_potykalov" title="VK" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=potykalov)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
