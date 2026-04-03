@@ -53,10 +53,10 @@
 
 ## 🚀 Проекты
 
-- [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js)
-- [Игра "Виселица"](https://github.com/Potykalov/hangmanGame)
-- [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma)
-- [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
+- [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js) [(Демо)](https://potykalov.github.io/tic-tac-toe-js/) - 
+- [Игра "Виселица"](https://github.com/Potykalov/hangmanGame) [(Демо)](https://potykalov.github.io/hangmanGame/) - 
+- [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma) [(Демо)](https://potykalov.github.io/mq-diploma/) - 
+- [HTML-верстка](https://github.com/Potykalov/html-2-diploma) [(Демо)](https://potykalov.github.io/html-2-diploma/) - 
 
 ## 🧠 Обучение
 
@@ -68,10 +68,10 @@
 
 ## 🏆 Сертификаты Нетологии
 
-- 📅 11.2025 - 12.2025 [HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) HTML, CSS
-- 📅 12.2025 - 02.2026 [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) HTML, CSS
-- 📅 02.2026 - 03.2026 [Основы программирования](./images/programming-basics.pdf) JavaScript
-- 📅 03.2026 - 04.2026 [Git — система контроля версий](./images/git-version-control.pdf) GIT
+- 📅 11.2025 - 12.2025 [HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) `HTML` `CSS`
+- 📅 12.2025 - 02.2026 [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) `HTML` `CSS`
+- 📅 02.2026 - 03.2026 [Основы программирования](./images/programming-basics.pdf) `JavaScript`
+- 📅 03.2026 - 04.2026 [Git — система контроля версий](./images/git-version-control.pdf) `GIT`
 
 ## 👨‍💻 О себе
 
