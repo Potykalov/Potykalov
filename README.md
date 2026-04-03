@@ -1,18 +1,30 @@
 <div id="badges" align = "center">
-  <a src = "mailto:dmitriy.potykalov@gmail.com">
+  <a href = "mailto:dmitriy.potykalov@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
-  <a src = "https://t.me/dmitriy_potykalov">
+  <a href = "https://t.me/dmitriy_potykalov">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a src = "https://vk.com/dmitriy_potykalov">
+  <a href = "https://vk.com/dmitriy_potykalov">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
   </a>
-  <a src = "https://www.linkedin.com/in/potykalov">
+  <a href = "https://www.linkedin.com/in/potykalov">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=potykalov&style=social&color=blue" alt="">
+</div>
+
+<div class="nav" align="center">
+  <a href="#-мои-ключевые-компетенции">Компетенции</a>
+  <a href="#-⚒️-инструменты">Инструменты</a>
+  <a href="#-проекты">Проекты</a>
+  <a href="#-🧠-обучение">Обучение</a>
+  <a href="#-🏆-сертификаты-нетологии">Сертификаты</a>
+  <a href="#-👨‍💻-о-себе">О себе</a>
+  <a href="#-📇-контакты">Контакты</a>
+</div>
+
   <h1>
     Добрый день!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -20,7 +32,6 @@
     <br>
     Я фронтенд-разработчик
   </h1>
-</div>
 
 ### 📌 Мои ключевые компетенции
 
@@ -34,14 +45,14 @@
 
 ---
 
-### :hammer_and_wrench: Инструменты
+### ⚒️ Инструменты
 
 <img src = "https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" title = "JavaScript" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/html-5.png" title = "HTML5" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/css3.png" title = "CSS3" width = "40" height = "40"><img src = "https://img.icons8.com/color/48/git.png" title = "GIT" width = "40" height = "40"><img src = "https://img.icons8.com/nolan/64/sass.png" title = "Sass" width = "40" height = "40">
 <img src = "https://img.icons8.com/color/48/visual-studio--v2.png" title = "VS Code" width = "40" height = "40">
 
 ---
 
-### 🚀 Выполненные проекты
+### 🚀 Проекты
 
 - [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js)
 - [Игра "Виселица"](https://github.com/Potykalov/hangmanGame)
@@ -81,23 +92,14 @@
 
 ### 📇 Контакты
 
-- 🗄️ [Мое резюме на Google Drive](https://drive.google.com/open?id=1yiBdKQfv06UNVdN8-vUEW_FL_-eQtVdq&usp=drive_fs)
-- 🗄️ [Мое резюме на MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
+- 📧 E-mail: [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
 
-<div id="badges" align = "center">
-  <a src = "mailto:dmitriy.potykalov@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
-  </a>
-  <a src = "https://t.me/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a src = "https://vk.com/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
-  </a>
-  <a src = "https://www.linkedin.com/in/potykalov">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+- 🗄️ [Резюме на Google Drive](https://drive.google.com/open?id=1yiBdKQfv06UNVdN8-vUEW_FL_-eQtVdq&usp=drive_fs)
+- 🗄️ [Резюме на MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
+
+- Telegram: https://t.me/dmitriy_potykalov
+- VK: https://vk.com/dmitriy_potykalov
+- LinkedIn: https://www.linkedin.com/in/potykalov
 
 <!--
 **Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
