@@ -1,5 +1,16 @@
 ![Header](./github-header-banner.png)
 
+<div id="header" align="center">
+  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGltbG02cWJzenhmZng1ODYxeHhnd2lrZmY3NzRmdDVvMXRnZzhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJmbSTSyIzetubNgJ5/giphy.gif" width = "100">
+</div>
+
+<div id="badges" align = "center">
+  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 # Привет! 👋 Я Дмитрий Потыкалов
 
 ## Frontend Developer | HTML, CSS, JavaScript
