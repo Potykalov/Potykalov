@@ -16,24 +16,23 @@
 </div>
 
 <div class="nav" align="center">
-  <a href="#-мои-ключевые-компетенции">Компетенции</a>
-  <a href="#-инструменты">Инструменты</a>
-  <a href="#-проекты">Проекты</a>
-  <a href="#-обучение">Обучение</a>
-  <a href="#-сертификаты-нетологии">Сертификаты</a>
-  <a href="#-о-себе">О себе</a>
+  <a href="#-мои-ключевые-компетенции">Компетенции</a> |
+  <a href="#%EF%B8%8F-инструменты">Инструменты</a> |
+  <a href="#-проекты">Проекты</a> |
+  <a href="#-обучение">Обучение</a> |
+  <a href="#-сертификаты-нетологии">Сертификаты</a> |
+  <a href="#%E2%80%8D-о-себе">О себе</a> |
   <a href="#-контакты">Контакты</a>
 </div>
 
-  <h1>
+  <h1 align="center">
     Добрый день!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Меня зовут Дмитрий
-    <br>
-    Я фронтенд-разработчик
   </h1>
+  <h3 align="center">Я фронтенд-разработчик</h3>
 
-### 📌 Мои ключевые компетенции
+## 📌 Мои ключевые компетенции
 
 - Вёрстка под тач и мобильные устройства
 - Работа с Flexbox и JavaScript
@@ -43,25 +42,23 @@
 - Применение принципов клиент-серверного взаимодействия
 - Создание одностраничных веб-приложений (SPA)
 
----
-
-### ⚒️ Инструменты
+## ⚒️ Инструменты
 
 <img src = "https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" title = "JavaScript" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/html-5.png" title = "HTML5" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/css3.png" title = "CSS3" width = "40" height = "40"><img src = "https://img.icons8.com/color/48/git.png" title = "GIT" width = "40" height = "40"><img src = "https://img.icons8.com/nolan/64/sass.png" title = "Sass" width = "40" height = "40">
 <img src = "https://img.icons8.com/color/48/visual-studio--v2.png" title = "VS Code" width = "40" height = "40">
 
----
+## 📊 Моя статистика GitHub
 
-### 🚀 Проекты
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=potykalov)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🚀 Проекты
 
 - [Игра "Крестики-нолики"](https://github.com/Potykalov/tic-tac-toe-js)
 - [Игра "Виселица"](https://github.com/Potykalov/hangmanGame)
 - [Адаптивная и мобильная верстка](https://github.com/Potykalov/mq-diploma)
 - [HTML-верстка](https://github.com/Potykalov/html-2-diploma)
 
----
-
-### 🧠 Обучение
+## 🧠 Обучение
 
 Прохожу обучение на курсе  
 **"Фронтенд-разработчик: расширенный курс"** в онлайн-школе Нетология  
@@ -69,18 +66,14 @@
 
 Создаю проекты и формирую портфолио.
 
----
-
-### 🏆 Сертификаты Нетологии
+## 🏆 Сертификаты Нетологии
 
 - 📅 11.2025 - 12.2025 [HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) HTML, CSS
 - 📅 12.2025 - 02.2026 [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) HTML, CSS
 - 📅 02.2026 - 03.2026 [Основы программирования](./images/programming-basics.pdf) JavaScript
 - 📅 03.2026 - 04.2026 [Git — система контроля версий](./images/git-version-control.pdf) GIT
 
----
-
-### 👨‍💻 О себе
+## 👨‍💻 О себе
 
 Фронтенд-разработчик с опытом работы над учебными проектами. Владею HTML, CSS, JavaScript и Git, разрабатываю адаптивные интерфейсы и интерактивные приложения.
 
@@ -88,18 +81,17 @@
 
 Стремлюсь к развитию в IT, открыт к предложениям, готов к релокации. Рассматриваю офисный, удалённый и гибридный формат работы.
 
----
+## 📇 Контакты
 
-### 📇 Контакты
+- 📧 **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
+- 📄 **Резюме:** [Google Drive](https://drive.google.com/open?id=1yiBdKQfv06UNVdN8-vUEW_FL_-eQtVdq&usp=drive_fs) | [MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
 
-- 📧 E-mail: [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
 
-- 🗄️ [Резюме на Google Drive](https://drive.google.com/open?id=1yiBdKQfv06UNVdN8-vUEW_FL_-eQtVdq&usp=drive_fs)
-- 🗄️ [Резюме на MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
+- ✈️ **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
+- 🌐 **VK:** [dmitriy_potykalov](https://vk.com/dmitriy_potykalov)
+- 💼 **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
 
-- Telegram: https://t.me/dmitriy_potykalov
-- VK: https://vk.com/dmitriy_potykalov
-- LinkedIn: https://www.linkedin.com/in/potykalov
+
 
 <!--
 **Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
