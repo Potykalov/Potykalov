@@ -18,15 +18,34 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=potykalov&style=for-the-badge&color=blue" alt="">
   <h1>
-    Привет!
+    Добрый день!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Я Дмитрий Потыкалов
+    Меня зовут Дмитрий. Я фронтенд-разработчик.
   </h1>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### 📌 Мои ключевые компетенции
+
+- Вёрстка под тач и мобильные устройства
+- Работа с Flexbox и JavaScript
+- Способность правильно использовать переменные, числа и строки
+- Создание интерактивных веб-страниц
+- Работа с файлами и медиаресурсами
+- Применение принципов клиент-серверного взаимодействия
+- Создание одностраничных веб-приложений (SPA)
+
+---
+
+### :hammer_and_wrench: Инструменты
+
+<img src = "https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" title = "JavaScript" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/html-5.png" title = "HTML5" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/css3.png" title = "CSS3" width = "40" height = "40"><img src = "https://img.icons8.com/color/48/git.png" title = "GIT" width = "40" height = "40"><img src = "https://img.icons8.com/nolan/64/sass.png" title = "Sass" width = "40" height = "40">
+<img src = "https://img.icons8.com/color/48/visual-studio--v2.png" title = "VS Code" width = "40" height = "40">
 
 ---
 
@@ -40,13 +59,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
----
 
-### :hammer_and_wrench: Стек
-
-<img src = "https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" title = "JavaScript" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/html-5.png" title = "HTML5" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/css3.png" title = "CSS3" width = "40" height = "40"><img src = "https://img.icons8.com/color/48/git.png" title = "GIT" width = "40" height = "40">
-
----
 
 ## 👨‍💻 О себе
 
