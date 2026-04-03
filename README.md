@@ -24,10 +24,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 📌 Мои ключевые компетенции
@@ -87,7 +83,12 @@
 
 ---
 
-### 📇 Контакты
+### 📇 Резюме
+
+- 🗄️ [Мое резюме на Google Drive](https://drive.google.com/open?id=1yiBdKQfv06UNVdN8-vUEW_FL_-eQtVdq&usp=drive_fs)
+- 🗄️ [Мое резюме на MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
+
+---
 
 <div id="badges" align = "center">
   <a src = "mailto:dmitriy.potykalov@gmail.com">
