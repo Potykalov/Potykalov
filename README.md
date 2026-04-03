@@ -40,14 +40,11 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Стек:
 
-
+<img src = "https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" title = "JavaScript" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/html-5.png" title = "HTML5" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/css3.png" title = "CSS3" width = "40" height = "40"><img src = "https://img.icons8.com/color/48/git.png" title = "GIT" width = "40" height = "40">
 
 ---
 
@@ -72,26 +69,6 @@
 📅 03.11.2025 — 12.03.2027  
 
 Создаю проекты и формирую портфолио.
-
----
-
-## 🛠 Стек технологий
-
-**Основное:**
-- HTML5  
-- CSS3 (Flexbox, Grid, Responsive Design)  
-- JavaScript (ES6+)  
-- Git  
-
-**Дополнительно:**
-- БЭМ-методология  
-- Адаптивная и мобильная верстка  
-
----
-
-## 💻 Инструменты
-
-<a href="https://visualstudio.microsoft.com/"><img width="48" height="48" title="VS Code" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a><a href="https://www.figma.com/"><img width="48" height="48" title="Figma" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></a><a href="https://www.adobe.com/products/photoshop.html"><img width="48" height="48" title="Photoshop" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/></a>
 
 ---
 
