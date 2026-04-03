@@ -30,7 +30,7 @@
 
 ---
 
-### :man_technologist: О себе:
+### :man_technologist: О себе
 
 Я Фронтенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
@@ -42,13 +42,9 @@
 
 ---
 
-### :hammer_and_wrench: Стек:
+### :hammer_and_wrench: Стек
 
 <img src = "https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" title = "JavaScript" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/html-5.png" title = "HTML5" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/css3.png" title = "CSS3" width = "40" height = "40"><img src = "https://img.icons8.com/color/48/git.png" title = "GIT" width = "40" height = "40">
-
----
-
-### :fire: My Stats :
 
 ---
 
@@ -137,7 +133,7 @@
 
 ---
 
-## 🏆 Сертификаты Нетологии
+### 🏆 Сертификаты Нетологии
 
 - [HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) 📅 03.11.2025 - 05.12.2025
 - [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) 📅 12.12.2025 - 02.02.2026
@@ -146,18 +142,20 @@
 
 ---
 
-## 📫 Контакты
-
-📧 Email: dmitriy.potykalov@gmail.com <br>
-💼 Open to work  
-
-<a href="https://t.me/dmitriy_potykalov" title="Telegram" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram"/></a>
-<a href="https://www.linkedin.com/in/potykalov/" title="LinkedIn" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-<a href="https://vk.com/dmitriy_potykalov" title="VK" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/vk-com.png" alt="vk-com"/></a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potykalov&show_icons=true&theme=tokyonight" />
-</p>
+<div id="badges" align = "center">
+  <a src = "mailto:dmitriy.potykalov@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+  <a src = "https://t.me/dmitriy_potykalov">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a src = "https://vk.com/dmitriy_potykalov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
+  </a>
+  <a src = "https://www.linkedin.com/in/potykalov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
