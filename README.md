@@ -16,7 +16,9 @@
   <h1>
     Добрый день!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Меня зовут Дмитрий. Я фронтенд-разработчик.
+    Меня зовут Дмитрий
+    <br>
+    Я фронтенд-разработчик
   </h1>
 </div>
 
