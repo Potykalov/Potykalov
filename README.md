@@ -1,5 +1,3 @@
-![Header](./github-header-banner.png)
-
 <div id="header" align="center">
   <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGltbG02cWJzenhmZng1ODYxeHhnd2lrZmY3NzRmdDVvMXRnZzhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJmbSTSyIzetubNgJ5/giphy.gif" width = "100">
 </div>
