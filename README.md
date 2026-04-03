@@ -1,9 +1,9 @@
 <div id="badges" align = "center">
   <a src = "mailto:dmitriy.potykalov@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+    <img src="https://img.shields.io/badge/dmitriy.potykalov@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
   <a src = "https://t.me/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/@dmitriy__potykalov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a src = "https://vk.com/dmitriy_potykalov">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
@@ -86,10 +86,10 @@
 
 <div id="badges" align = "center">
   <a src = "mailto:dmitriy.potykalov@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+    <img src="https://img.shields.io/badge/dmitriy.potykalov@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
   <a src = "https://t.me/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/@dmitriy__potykalov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a src = "https://vk.com/dmitriy_potykalov">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
