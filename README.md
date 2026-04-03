@@ -1,15 +1,15 @@
 <div id="badges" align = "center">
   <a src = "mailto:dmitriy.potykalov@gmail.com">
-    <img src="https://img.shields.io/badge/dmitriy.potykalov@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
   <a src = "https://t.me/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/@dmitriy__potykalov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a src = "https://vk.com/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/vk.com/dmitriy__potykalov-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
+    <img src="https://img.shields.io/badge/vk.com/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
   </a>
   <a src = "https://www.linkedin.com/in/potykalov">
-    <img src="https://img.shields.io/badge/linkedin.com/in/potykalov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=potykalov&style=for-the-badge&color=blue" alt="">
@@ -86,16 +86,16 @@
 
 <div id="badges" align = "center">
   <a src = "mailto:dmitriy.potykalov@gmail.com">
-    <img src="https://img.shields.io/badge/dmitriy.potykalov@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
   <a src = "https://t.me/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/@dmitriy__potykalov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a src = "https://vk.com/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/vk.com/dmitriy__potykalov-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
   </a>
   <a src = "https://www.linkedin.com/in/potykalov">
-    <img src="https://img.shields.io/badge/linkedin.com/in/potykalov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
