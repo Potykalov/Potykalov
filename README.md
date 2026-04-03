@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/@dmitriy__potykalov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a src = "https://vk.com/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
+    <img src="https://img.shields.io/badge/vk.com/dmitriy__potykalov-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
   </a>
   <a src = "https://www.linkedin.com/in/potykalov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin.com/in/potykalov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=potykalov&style=for-the-badge&color=blue" alt="">
@@ -92,10 +92,10 @@
     <img src="https://img.shields.io/badge/@dmitriy__potykalov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a src = "https://vk.com/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
+    <img src="https://img.shields.io/badge/vk.com/dmitriy__potykalov-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
   </a>
   <a src = "https://www.linkedin.com/in/potykalov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin.com/in/potykalov-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
