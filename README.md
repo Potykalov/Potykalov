@@ -70,8 +70,8 @@
 
 - 📅 03.2026 - 04.2026 [Git — система контроля версий](./images/git-version-control.pdf) `Git`
 - 📅 02.2026 - 03.2026 [Основы программирования](./images/programming-basics.pdf) `JavaScript`
-- 📅 12.2025 - 02.2026 [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) `HTML` `CSS` `Flexbox` `Grid Layout`
-- 📅 11.2025 - 12.2025 [HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) `HTML` `CSS` `Flexbox` `Grid Layout`
+- 📅 12.2025 - 02.2026 [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) `HTML` `CSS` `Flexbox` `Grid Layout` `БЭМ`
+- 📅 11.2025 - 12.2025 [HTML-верстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) `HTML` `CSS` `Flexbox` `Grid Layout` `БЭМ`
 
 ## 👨‍💻 О себе
 
