@@ -46,7 +46,7 @@
 
 ## 📊 Моя статистика GitHub
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potykalov&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Potykalov&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Проекты
 
@@ -65,6 +65,7 @@
 
 ## 🏆 Сертификаты Нетологии
 
+- 📅 04.2026 - 05.2026 [Основы JavaScript](./images/javascript-basics-certificate.pdf) `JavaScript`
 - 📅 03.2026 - 04.2026 [Git — система контроля версий](./images/git-version-control.pdf) `Git` `GitHub`
 - 📅 02.2026 - 03.2026 [Основы программирования](./images/programming-basics.pdf) `JavaScript`
 - 📅 12.2025 - 02.2026 [Адаптивная и мобильная верстка](./images/responsive-web-design.pdf) `HTML` `CSS` `Flexbox` `Grid Layout` `БЭМ`
