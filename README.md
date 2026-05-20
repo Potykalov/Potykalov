@@ -29,6 +29,8 @@
   </h1>
   <h3 align="center">Я фронтенд-разработчик</h3>
 
+<br>
+
 ## 📌 Мои ключевые компетенции
 
 - адаптивная и мобильная вёрстка;
@@ -39,14 +41,37 @@
 - применение принципов клиент-серверного взаимодействия;
 - создание одностраничных веб-приложений (SPA).
 
-## ⚒️ Инструменты
+<br>
 
-<img src = "https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" title = "JavaScript" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/html-5.png" title = "HTML5" width = "40" height = "40"><img src = "https://img.icons8.com/plasticine/100/css3.png" title = "CSS3" width = "40" height = "40"><img src = "https://img.icons8.com/color/48/git.png" title = "GIT" width = "40" height = "40"><img src = "https://img.icons8.com/nolan/64/sass.png" title = "Sass" width = "40" height = "40">
-<img src = "https://img.icons8.com/color/48/visual-studio--v2.png" title = "VS Code" width = "40" height = "40">
+## ⚒️ Технологии и инструменты
+
+### Основной стек
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Вёрстка и стилизация
+
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge)
+![Grid Layout](https://img.shields.io/badge/Grid_Layout-1572B6?style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![БЭМ](https://img.shields.io/badge/БЭМ-000000?style=for-the-badge)
+
+### Инструменты разработки
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+<br>
 
 ## 📊 Моя статистика GitHub
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potykalov&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ## 🚀 Проекты
 
@@ -127,6 +152,8 @@
 **Вывод:**  
 Закрепил навыки семантической HTML-разметки, CSS-стилизации, работы с изображениями, формами и Flexbox. Получил практику вёрстки полноценной страницы по готовому макету.
 
+<br>
+
 ## 🧠 Обучение
 
 Прохожу обучение на курсе  
@@ -134,6 +161,8 @@
 📅 03.11.2025 — 12.03.2027  
 
 Создаю проекты и формирую портфолио.
+
+<br>
 
 ## 🏆 Сертификаты Нетологии
 
@@ -143,6 +172,8 @@
 - 📅 12.2025 - 02.2026 [Адаптивная и мобильная вёрстка](./images/responsive-web-design.pdf) `HTML` `CSS` `Flexbox` `Grid Layout` `БЭМ`
 - 📅 11.2025 - 12.2025 [HTML-вёрстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf) `HTML` `CSS` `Flexbox` `Grid Layout` `БЭМ`
 
+<br>
+
 ## 👨‍💻 О себе
 
 Фронтенд-разработчик с опытом работы над учебными проектами. Владею HTML, CSS, JavaScript и Git, разрабатываю адаптивные интерфейсы и интерактивные приложения.
@@ -151,13 +182,12 @@
 
 Стремлюсь к развитию в IT, открыт к предложениям, готов к релокации. Рассматриваю офисный, удалённый и гибридный формат работы.
 
+<br>
+
 ## 📇 Контакты
 
 - 📧 **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
 - 📄 **Резюме:** [Google Drive](https://drive.google.com/open?id=1ak6nmqtLSFGO8AzNQQdPnP2R-5dQ_1Wr&usp=drive_fs) | [MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
-
-<br>
-
 - ✈️ **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
 - 💼 **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
 
