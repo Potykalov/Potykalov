@@ -82,7 +82,7 @@
 ## 📇 Контакты
 
 - 📧 **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
-- 📄 **Резюме:** [Google Drive](https://drive.google.com/open?id=1yiBdKQfv06UNVdN8-vUEW_FL_-eQtVdq&usp=drive_fs) | [MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
+- 📄 **Резюме:** [Google Drive](https://drive.google.com/open?id=1ak6nmqtLSFGO8AzNQQdPnP2R-5dQ_1Wr&usp=drive_fs) | [MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
 
 <br>
 
