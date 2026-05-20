@@ -5,9 +5,6 @@
   <a href = "https://t.me/dmitriy_potykalov">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href = "https://vk.com/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="V kontakte Badge"/>
-  </a>
   <a href = "https://www.linkedin.com/in/potykalov">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -88,7 +85,6 @@
 
 
 - ✈️ **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
-- 🌐 **VK:** [dmitriy_potykalov](https://vk.com/dmitriy_potykalov)
 - 💼 **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
 
 
