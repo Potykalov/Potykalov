@@ -1,33 +1,25 @@
-<div id="badges" align = "center">
-  <a href = "mailto:dmitriy.potykalov@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
-  </a>
-  <a href = "https://t.me/dmitriy_potykalov">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href = "https://www.linkedin.com/in/potykalov">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=potykalov&style=social&color=blue" alt="">
+<div align="center">
+  <a href="mailto:dmitriy.potykalov@gmail.com"><img src="https://img.shields.io/badge/Gmail-написать-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://t.me/dmitriy_potykalov"><img src="https://img.shields.io/badge/Telegram-написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/potykalov"><img src="https://img.shields.io/badge/LinkedIn-профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
+
+<br>
+
+<h1 align="center">Дмитрий Потыкалов</h1>
+<h3 align="center">Frontend-разработчик | HTML, CSS, JavaScript</h3>
+
+<br>
 
 <div class="nav" align="center">
-  <a href="#-мои-ключевые-компетенции">Компетенции</a> |
-  <a href="#%EF%B8%8F-инструменты">Инструменты</a> |
-  <a href="#-проекты">Проекты</a> |
-  <a href="#-обучение">Обучение</a> |
-  <a href="#-сертификаты-нетологии">Сертификаты</a> |
-  <a href="#%E2%80%8D-о-себе">О себе</a> |
+  <a href="#-мои-ключевые-компетенции">Компетенции</a> •
+  <a href="#%EF%B8%8F-технологии-и-инструменты">Инструменты</a> •
+  <a href="#-проекты">Проекты</a> •
+  <a href="#-обучение">Обучение</a> •
+  <a href="#-сертификаты-нетологии">Сертификаты</a> •
+  <a href="#%E2%80%8D-о-себе">О себе</a> •
   <a href="#-контакты">Контакты</a>
 </div>
-
-  <h1 align="center">
-    Добрый день!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Меня зовут Дмитрий
-  </h1>
-  <h3 align="center">Я фронтенд-разработчик</h3>
 
 <br>
 
@@ -67,17 +59,11 @@
 
 <br>
 
-## 📊 Моя статистика GitHub
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potykalov&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 ## 🚀 Проекты
 
 ### 🪙 [Неткоин — сайт-биржа для крипто-стартапа](https://github.com/potykalov/netcoin-exchange)
 [▶️ Открыть демо](https://netcoin-exchange.onrender.com)
-> Демо может открываться чуть дольше при первом запуске — приложение размещено на бесплатном тарифе Render.
+> Демо размещено на Render. Первый запуск может занять около минуты, если сервер был в спящем режиме.
 
 Учебное веб-приложение для управления внутренней валютой крипто-стартапа. Пользователь может зарегистрироваться, войти в личный кабинет, посмотреть баланс, пополнить счёт, конвертировать валюту, перевести средства другому пользователю и управлять списком избранных получателей.
 
@@ -183,7 +169,7 @@
 ## 🧠 Обучение
 
 Прохожу обучение на курсе  
-**"Фронтенд-разработчик: расширенный курс"** в онлайн-школе Нетология  
+**«Фронтенд-разработчик: расширенный курс»** в онлайн-школе Нетология  
 📅 03.11.2025 — 12.03.2027  
 
 Создаю проекты и формирую портфолио.
@@ -202,11 +188,11 @@
 
 ## 👨‍💻 О себе
 
-Фронтенд-разработчик с опытом работы над учебными проектами. Владею HTML, CSS, JavaScript и Git, разрабатываю адаптивные интерфейсы и интерактивные приложения.
+Я frontend-разработчик, развиваюсь в направлении HTML, CSS и JavaScript. Создаю адаптивные интерфейсы и интерактивные веб-приложения, работаю с DOM, событиями, API и Git.
 
-Имею опыт наставничества, а также навыки организации рабочих процессов и командного взаимодействия.
+До перехода в IT получил опыт наставничества, организации рабочих процессов и командного взаимодействия.
 
-Стремлюсь к развитию в IT, открыт к предложениям, готов к релокации. Рассматриваю офисный, удалённый и гибридный формат работы.
+Открыт к предложениям на позицию начинающего frontend-разработчика. Рассматриваю офисный, удалённый и гибридный формат работы, готов к релокации.
 
 <br>
 
@@ -217,7 +203,11 @@
 - ✈️ **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
 - 💼 **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
 
+<br>
 
+## 📊 Моя статистика GitHub
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potykalov&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
